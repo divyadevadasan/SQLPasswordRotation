@@ -11,11 +11,6 @@ Prerequisites
 
 Automated credential rotating for SQL Auth users
 ---
-
-![High Level Diagram](./images/ood-sql-password-rotation-workflow.png "High-level Diagram")
-
-Source file: [ood-sql-password-rotation-workflow.png](SQLEC2PasswordRotate/images/ood-sql-password-rotation-workflow.png)
-
 Solution Workflow
 ---
 
